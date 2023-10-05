@@ -6,7 +6,7 @@
 #####################################
 ### UPDATE THE FOLLOWING VARIABLE ###
 #####################################
-CONFIG_DIR=/home/thomas/mini_internet_project/platform/config
+CONFIG_DIR=/home/ubuntu/mini_internet_project/platform/config
 ######################################
 SSH_PORT_BASE=2000
 WEBSERVER_PORT=80
